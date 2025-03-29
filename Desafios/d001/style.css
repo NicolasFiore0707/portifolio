@@ -1,0 +1,39 @@
+@charset "UTF-8" ;
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main  {
+    color: white;
+    background-color: gray;
+    padding: 10px;
+    margin: auto;
+    width: 95vw;
+    height: 98vh;
+    border-radius: 25px;
+}
+
+p#first{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px  rgba(0, 0, 0, 0.527);
+}
+
+.img1 {
+    background-image: url(img/prog.jpg);
+    background-repeat: no-repeat;
+    background-position:  top center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: max-content;
+    padding: 15px;
+   border-radius: 25px;
+   box-shadow: inset 2px 2px 3px 1px rgba(0, 0, 0, 0.473);
+    
+}
+
+.img2 {
+    background-image: url(img/);
+}
